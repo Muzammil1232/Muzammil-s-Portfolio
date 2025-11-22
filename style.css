@@ -256,7 +256,8 @@ nav ul li a:hover {
 #hero-contact{
   padding: 5px 20px 9px 20px;
   text-decoration: none;
-  border: 2px solid #7b39a3;
+  border: 2px solid #560c61;
+  color: #560c61;
   font-size: 1rem;
   font-weight: 500;
   /* margin-top: 5px; */
