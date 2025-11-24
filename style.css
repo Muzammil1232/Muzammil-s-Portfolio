@@ -896,7 +896,7 @@ form button:hover {
     #hero {
         flex-direction: column-reverse;
         text-align: center;
-        padding: 60px 3rem 20px;
+        padding: 40px 3rem 20px;
         font-size: 1rem;
     }
     .hero-right img {
